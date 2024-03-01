@@ -1,0 +1,68 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/52400492?v=4",
+        "hidden": false
+    },
+    "profile": {
+        "name": "Your Name",
+        "email": "xxx@qq.com",
+        "mobile": "xxxx",
+        "github": "",
+        "workExpYear": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "from",
+                "to"
+            ],
+            "school": "college",
+            "major": "major",
+            "academic_degree": "degree"
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "name",
+            "award_time": "time"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "company",
+            "department_name": "department",
+            "work_time": [
+                "start",
+                null
+            ],
+            "work_desc": "work_desc"
+        }
+    ],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_name": "name",
+            "project_role": "role",
+            "project_time": "start - end",
+            "project_desc": "desc",
+            "project_content": "content"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "aboutme"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
